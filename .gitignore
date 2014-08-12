@@ -1,2 +1,6 @@
 auth.R
 .Rproj.user
+.Rbuildignore
+.RData
+.Rhistory
+.Rproj.user
